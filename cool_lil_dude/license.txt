@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cool Lil Dude
+* source:	https://sketchfab.com/3d-models/cool-lil-dude-54cd8f3e2abb4b6fa82a255a9aa5c0c6
+* author:	tkinnard (https://sketchfab.com/tkinnard)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cool Lil Dude" (https://sketchfab.com/3d-models/cool-lil-dude-54cd8f3e2abb4b6fa82a255a9aa5c0c6) by tkinnard (https://sketchfab.com/tkinnard) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
